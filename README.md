@@ -3,6 +3,6 @@ An official implement of "PSVRF: Learning to restore Pitch-Scaled Speech without
 
 The paper is submitted to the ### ICASSP2023, and the details will be supplemented soon.
 
-!(/Figs/framework.png)
+![Overviwes of PSVRF](/Figs/overview.png)
 
 Note: the code is the draft, we are trying our best to improve it.
